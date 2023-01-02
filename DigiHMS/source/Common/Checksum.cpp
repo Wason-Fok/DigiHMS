@@ -18,6 +18,8 @@ qint8 CRC8(const char* data, const qint32 length)
 			}
 		}
 	}
+
+	return crc;
 }
 
 qint16 CRC16(const char* data, const qint32 length)

@@ -34,6 +34,4 @@
 # Folders
 .vs/
 bin/
-ApiTest/x64/
-DigiHMS/x64/
-LibreHardwareMonitorApi/x64/
+x64/

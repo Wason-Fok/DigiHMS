@@ -1,15 +1,5 @@
-﻿  rcc resource\DigiHMS.qrc
-  moc source\TrayIcon\TrayIcon.h
-  moc source\DigiHMS.h
-  DigiHMS.cpp
-  Manager.cpp
-  Serial.cpp
-  main.cpp
-  TrayIcon.cpp
+﻿  Checksum.cpp
   moc_HAL_Driver.cpp
-  moc_Serial.cpp
   moc_Manager.cpp
-  qrc_DigiHMS.cpp
-  moc_TrayIcon.cpp
-  moc_DigiHMS.cpp
+  moc_Serial.cpp
   DigiHMS.vcxproj -> E:\Github\DigiHMS\bin\x64\Debug\DigiHMS.exe
