@@ -1,7 +1,7 @@
 # Folders
-.vs
-bin
-x64
+.vs/
+bin/
+x64/
 
 # Prerequisites
 *.d
