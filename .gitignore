@@ -33,5 +33,5 @@
 
 # Folders
 .vs/
-/bin/
-x64/
+bin
+x64
