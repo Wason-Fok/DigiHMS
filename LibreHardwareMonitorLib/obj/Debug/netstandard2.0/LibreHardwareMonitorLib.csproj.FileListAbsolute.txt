@@ -1,0 +1,12 @@
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\netstandard2.0\LibreHardwareMonitorLib.deps.json
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\netstandard2.0\LibreHardwareMonitorLib.dll
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\netstandard2.0\LibreHardwareMonitorLib.pdb
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\netstandard2.0\LibreHardwareMonitorLib.xml
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.dll
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.xml
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\netstandard2.0\LibreHardwareMonitorLib.pdb

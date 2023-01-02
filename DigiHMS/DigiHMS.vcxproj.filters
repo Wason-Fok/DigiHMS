@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source\TrayIcon">
+      <UniqueIdentifier>{8c8eb0a0-8a91-4a32-818a-d7b2802532e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\IO">
+      <UniqueIdentifier>{59f21904-0518-4bd7-b4c2-f736893f0673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\IO\Serial">
+      <UniqueIdentifier>{8b5a37cd-5c16-4f8e-97ec-ae71f5adc2fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Common">
+      <UniqueIdentifier>{a848a017-9b13-4cf7-94f2-7dec553ad270}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Icons">
+      <UniqueIdentifier>{b9bf4893-474e-477b-9121-95c17f42fe37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\IO\Manager">
+      <UniqueIdentifier>{0e819925-4ecc-4200-b2f8-943cd6ee894e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="ui\DigiHMS.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="resource\DigiHMS.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\DigiHMS.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\TrayIcon\TrayIcon.cpp">
+      <Filter>Source\TrayIcon</Filter>
+    </ClCompile>
+    <ClCompile Include="source\IO\Serial\Serial.cpp">
+      <Filter>Source\IO\Serial</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Common\TimerEvents.cpp">
+      <Filter>Source\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Common\Utilities.cpp">
+      <Filter>Source\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="source\IO\Manager\Manager.cpp">
+      <Filter>Source\IO\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="source\TrayIcon\TrayIcon.h">
+      <Filter>Source\TrayIcon</Filter>
+    </QtMoc>
+    <QtMoc Include="source\IO\HAL_Driver.h">
+      <Filter>Source\IO</Filter>
+    </QtMoc>
+    <QtMoc Include="source\IO\Serial\Serial.h">
+      <Filter>Source\IO\Serial</Filter>
+    </QtMoc>
+    <QtMoc Include="source\Common\TimerEvents.h">
+      <Filter>Source\Common</Filter>
+    </QtMoc>
+    <QtMoc Include="source\Common\Utilities.h">
+      <Filter>Source\Common</Filter>
+    </QtMoc>
+    <QtMoc Include="source\IO\Manager\Manager.h">
+      <Filter>Source\IO\Manager</Filter>
+    </QtMoc>
+    <QtMoc Include="source\DigiHMS.h">
+      <Filter>Source</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\Common\AppInfo.h">
+      <Filter>Source\Common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resource\icons\TestIcon.ico">
+      <Filter>Resource Files\Icons</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

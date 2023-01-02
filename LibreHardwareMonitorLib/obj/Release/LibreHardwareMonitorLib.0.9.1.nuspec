@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LibreHardwareMonitorLib</id>
+    <version>0.9.1</version>
+    <authors>LibreHardwareMonitorLib</authors>
+    <license type="expression">MPL-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/MPL-2.0</licenseUrl>
+    <icon>packageicon.png</icon>
+    <projectUrl>https://github.com/LibreHardwareMonitor/LibreHardwareMonitor</projectUrl>
+    <description>Monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.</description>
+    <copyright>LibreHardwareMonitor</copyright>
+    <tags>libre open hardware monitor monitoring system logging cpu gpu</tags>
+    <repository url="https://github.com/LibreHardwareMonitor/LibreHardwareMonitor" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="HidSharp" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Management" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Release\net472\LibreHardwareMonitorLib.dll" target="lib\net472\LibreHardwareMonitorLib.dll" />
+    <file src="D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Release\net472\LibreHardwareMonitorLib.xml" target="lib\net472\LibreHardwareMonitorLib.xml" />
+    <file src="D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\Resources\packageicon.png" target="packageicon.png" />
+  </files>
+</package>

@@ -1,0 +1,2 @@
+E:\Github\DigiHMS\DigiHMS\x64\Debug\DigiHMS.vcxproj.CopyComplete
+E:\Github\DigiHMS\DigiHMS\x64\Debug\DigiHMS.vcxproj.AssemblyReference.cache

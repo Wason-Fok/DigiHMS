@@ -1,0 +1,12 @@
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\net472\LibreHardwareMonitorLib.dll
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\net472\LibreHardwareMonitorLib.pdb
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\bin\Debug\net472\LibreHardwareMonitorLib.xml
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.AssemblyReference.cache
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfoInputs.cache
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.AssemblyInfo.cs
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.CoreCompileInputs.cache
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.csproj.CopyComplete
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.dll
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.xml
+D:\User\Wason\Documents\GitHub\LibreHardwareMonitor\LibreHardwareMonitorLib\obj\Debug\net472\LibreHardwareMonitorLib.pdb

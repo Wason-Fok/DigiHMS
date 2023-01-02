@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/DigiHMS">
+        <file>icons/TestIcon.ico</file>
+        <file>icons/TestSvg.svg</file>
+    </qresource>
+</RCC>
