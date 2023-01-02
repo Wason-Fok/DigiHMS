@@ -53,31 +53,22 @@
     <ClCompile Include="source\TrayIcon\TrayIcon.cpp">
       <Filter>Source\TrayIcon</Filter>
     </ClCompile>
-    <ClCompile Include="source\IO\Serial\Serial.cpp">
-      <Filter>Source\IO\Serial</Filter>
-    </ClCompile>
     <ClCompile Include="source\Common\TimerEvents.cpp">
       <Filter>Source\Common</Filter>
     </ClCompile>
     <ClCompile Include="source\Common\Utilities.cpp">
       <Filter>Source\Common</Filter>
     </ClCompile>
-    <ClCompile Include="source\IO\Manager\Manager.cpp">
-      <Filter>Source\IO\Manager</Filter>
-    </ClCompile>
     <ClCompile Include="source\main.cpp">
       <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Common\Checksum.cpp">
+      <Filter>Source\Common</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="source\TrayIcon\TrayIcon.h">
       <Filter>Source\TrayIcon</Filter>
-    </QtMoc>
-    <QtMoc Include="source\IO\HAL_Driver.h">
-      <Filter>Source\IO</Filter>
-    </QtMoc>
-    <QtMoc Include="source\IO\Serial\Serial.h">
-      <Filter>Source\IO\Serial</Filter>
     </QtMoc>
     <QtMoc Include="source\Common\TimerEvents.h">
       <Filter>Source\Common</Filter>
@@ -85,15 +76,15 @@
     <QtMoc Include="source\Common\Utilities.h">
       <Filter>Source\Common</Filter>
     </QtMoc>
-    <QtMoc Include="source\IO\Manager\Manager.h">
-      <Filter>Source\IO\Manager</Filter>
-    </QtMoc>
     <QtMoc Include="source\DigiHMS.h">
       <Filter>Source</Filter>
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\Common\AppInfo.h">
+      <Filter>Source\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="source\Common\Checksum.h">
       <Filter>Source\Common</Filter>
     </ClInclude>
   </ItemGroup>

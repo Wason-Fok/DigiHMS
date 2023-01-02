@@ -1,2 +1,0 @@
-E:\Github\DigiHMS\ApiTest\x64\Debug\ApiTest.vcxproj.AssemblyReference.cache
-E:\Github\DigiHMS\ApiTest\x64\Debug\ApiTest.vcxproj.CopyComplete

@@ -119,22 +119,15 @@
     <QtRcc Include="resource\DigiHMS.qrc" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="source\Common\Checksum.cpp" />
     <ClCompile Include="source\Common\TimerEvents.cpp" />
     <ClCompile Include="source\Common\Utilities.cpp" />
     <ClCompile Include="source\DigiHMS.cpp" />
-    <ClCompile Include="source\IO\Manager\Manager.cpp" />
-    <ClCompile Include="source\IO\Serial\Serial.cpp" />
     <ClCompile Include="source\main.cpp" />
     <ClCompile Include="source\TrayIcon\TrayIcon.cpp" />
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="source\TrayIcon\TrayIcon.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <QtMoc Include="source\IO\HAL_Driver.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <QtMoc Include="source\IO\Serial\Serial.h" />
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="source\Common\TimerEvents.h" />
@@ -144,8 +137,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\Common\AppInfo.h" />
+    <ClInclude Include="source\Common\Checksum.h" />
     <QtMoc Include="source\DigiHMS.h" />
-    <QtMoc Include="source\IO\Manager\Manager.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="resource\icons\TestIcon.ico" />

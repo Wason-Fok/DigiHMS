@@ -1,1 +1,0 @@
-E:\Github\DigiHMS\LibreHardwareMonitorApi\x64\Release\LibreHardwareMonitorApi.vcxproj.CopyComplete
